@@ -77,8 +77,8 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For any inquiries or support, contact:
-📧 Email: your-email@example.com
-📌 GitHub: [your-username](https://github.com/your-username)
+📧 Email: christianjohnruiz395@gmail.com
+📌 GitHub: [Xian395](https://github.com/Xian395)
 
 ---
 🚀 **Empowering Barangays with Digital Solutions!**
