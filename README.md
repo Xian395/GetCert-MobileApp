@@ -48,23 +48,29 @@ sh
 ## UI Preview
 Here are some screenshots of the app in action:
 
-### Login Screen
-![Login Screen](./assets/login.png)
+<table>
+  <tr>
+    <td align="center"><strong>Login Screen</strong></td>
+    <td align="center"><strong>Home Screen</strong></td>
+    <td align="center"><strong>Request Form</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/login.png" alt="Login Screen" width="350"/></td>
+    <td><img src="./assets/home.png" alt="Home Screen" width="350"/></td>
+    <td><img src="./assets/form.png" alt="Request Form" width="350"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Payment Options</strong></td>
+    <td align="center"><strong>Status Tracking</strong></td>
+    <td align="center"><strong>Profile Management</strong></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/payment.jpg" alt="Payment Options" width="350"/></td>
+    <td><img src="./assets/tracking.jpg" alt="Status Tracking" width="350"/></td>
+    <td><img src="./assets/profile.png" alt="Profile Management" width="350"/></td>
+  </tr>
+</table>
 
-### Home Screen
-![Notifications](./assets/home.png)
-
-### Request Form
-![Request Form](./assets/form.png)
-
-### Payment Options
-![Payment Options](./assets/payment.jpg)
-
-### Status Tracking
-![Status Tracking](./assets/tracking.jpg)
-
-### Profile Management
-![Profile Management](./assets/profile.png)
 
 ## License
 This project is licensed under the **MIT License**.
