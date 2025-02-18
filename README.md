@@ -19,22 +19,25 @@ The **Barangay Certification Request Mobile App** is a mobile application design
 
 ## Installation & Setup
 1. Clone the repository:
-   ```sh
+   
+sh
    git clone https://github.com/Xian395/Barangay_Certification_Request_MobileApp.git
    cd Barangay_Certification_Request_MobileApp
-   ```
+
 2. Install dependencies:
-   ```sh
+   
+sh
    npm install
-   ```
+
 3. Set up Firebase:
    - Create a Firebase project.
-   - Add your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS).
+   - Add your google-services.json (Android) and GoogleService-Info.plist (iOS).
    - Configure Firestore and Authentication.
 4. Run the application:
-   ```sh
+   
+sh
    expo start
-   ```
+
 
 ## Usage
 - **Login/Register**: Create an account or log in.
@@ -42,13 +45,26 @@ The **Barangay Certification Request Mobile App** is a mobile application design
 - **Make Payment**: Complete the transaction via the available payment options.
 - **Track Status**: View the progress of your request in real-time.
 
-## Contribution
-Feel free to contribute! Follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature/new-feature`).
-3. Commit your changes (`git commit -m "Added new feature"`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Create a pull request.
+## UI Preview
+Here are some screenshots of the app in action:
+
+### Login Screen
+![Login Screen](./assets/login.png)
+
+### Home Screen
+![Notifications](./assets/home.png)
+
+### Request Form
+![Request Form](./assets/form.png)
+
+### Payment Options
+![Payment Options](./assets/payment.jpg)
+
+### Status Tracking
+![Status Tracking](./assets/tracking.jpg)
+
+### Profile Management
+![Profile Management](./assets/profile.png)
 
 ## License
 This project is licensed under the **MIT License**.
